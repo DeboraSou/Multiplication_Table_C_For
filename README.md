@@ -12,7 +12,7 @@ Este repositório em **C** fornece um programa que calcula a tabuada de um núme
 
 ## 🖥️ Explicação do Código
 
-Inclusão de Bibliotecas:
+**Inclusão de Bibliotecas:**
 
 - Estas bibliotecas são necessárias para funções de entrada/saída, manipulação de memória e configuração regional.
 
